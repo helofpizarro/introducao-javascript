@@ -18,7 +18,7 @@ xhr.addEventListener('load',function () {
            adicionaPacienteNaTabela(paciente)
         })
     } else{
-        erroAjax.classList.remove('insivivel') 
+        erroAjax.classList.remove('invisivel') 
     }          
        
 })
